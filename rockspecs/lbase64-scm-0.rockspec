@@ -3,7 +3,7 @@ package="lbase64"
 version="scm-0"
 
 source = {
-  url = "https://github.com/moteus/lbase64/archive/master.zip",
+  url = "https://github.com/alexbw/lbase64/archive/master.zip",
   dir = "lbase64-master",
 }
 
